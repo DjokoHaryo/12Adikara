@@ -69,7 +69,7 @@ body {
 
 .bg-hero {
     /* Menambahkan foto bersama sebagai background dengan efek gelap agar teks terbaca */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url('images/fotobersama.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url('images/fotobersama.JPG');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
