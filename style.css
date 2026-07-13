@@ -158,6 +158,64 @@ body {
     margin: 0 auto;
 }
 
+/* --- Bagian Sambutan Wali Kelas --- */
+.teacher-message {
+    padding: 60px 0 20px;
+    background-color: #f8faff;
+}
+
+.message-box {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    background-color: #e0f2fe;
+    /* Biru muda soft */
+    padding: 40px 50px;
+    border-radius: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.teacher-photo {
+    flex-shrink: 0;
+    width: 200px;
+    height: 200px;
+}
+
+.teacher-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    /* Membuat foto menjadi bulat sempurna */
+    border: 6px solid #fff;
+    /* Garis putih di sekeliling foto */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.message-content {
+    flex: 1;
+}
+
+.message-content h2 {
+    font-size: 2.2rem;
+    color: #1e293b;
+    margin-bottom: 5px;
+}
+
+.message-content h3 {
+    font-size: 1.2rem;
+    color: #2563eb;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.message-content .quote {
+    font-size: 1.1rem;
+    color: #475569;
+    font-style: italic;
+    line-height: 1.8;
+}
+
 /* Galeri Kegiatan */
 .gallery {
     padding: 60px 0 100px;
