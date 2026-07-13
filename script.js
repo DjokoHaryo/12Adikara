@@ -1,3 +1,24 @@
+// --- Hamburger Menu Logic ---
+const mobileMenu = document.getElementById('mobile-menu');
+const navLinks = document.getElementById('nav-links');
+
+if (mobileMenu && navLinks) {
+    mobileMenu.addEventListener('click', () => {
+        // Toggle class 'active' untuk navigasi
+        navLinks.classList.toggle('active');
+        // Toggle class 'is-active' untuk animasi ikon hamburger
+        mobileMenu.classList.toggle('is-active');
+    });
+
+    // Menutup menu jika salah satu link diklik (opsional, bagus untuk HP)
+    navLinks.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+            navLinks.classList.remove('active');
+            mobileMenu.classList.remove('is-active');
+        });
+    });
+}
+
 // Smooth scrolling
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
