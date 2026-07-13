@@ -394,14 +394,149 @@ footer {
     line-height: 1.7;
 }
 
-/* Responsif untuk Smartphone */
+/* ==========================================================================
+   HAMBURGER MENU & MEDIA QUERIES RESPONSIVE
+   ========================================================================== */
+
+/* Tombol Hamburger (Disembunyikan di Layar Besar) */
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    gap: 5px;
+    z-index: 101;
+}
+
+.menu-toggle .bar {
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+
+/* Animasi saat menu terbuka */
+.menu-toggle.is-active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+
+.menu-toggle.is-active .bar:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.is-active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+/* 1. DEVICE TEMPLATE: TABLET & IPAD (Lebar layar di bawah 1024px) */
+@media (max-width: 1024px) {
+    .container {
+        max-width: 90%;
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+}
+
+/* 2. DEVICE TEMPLATE: SMARTPHONE (Lebar layar di bawah 768px) */
 @media (max-width: 768px) {
+
+    /* Munculkan Hamburger Menu */
+    .menu-toggle {
+        display: flex;
+    }
+
+    /* Navigasi Dropdown */
+    .nav-links {
+        position: absolute;
+        top: 80px;
+        /* Menyesuaikan tinggi navbar */
+        left: -100%;
+        /* Sembunyikan ke kiri */
+        width: 100%;
+        background-color: #fff;
+        flex-direction: column;
+        align-items: center;
+        padding: 30px 0;
+        box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+        transition: left 0.4s ease;
+    }
+
+    /* Class active ditambahkan via JavaScript saat diklik */
+    .nav-links.active {
+        left: 0;
+    }
+
+    .nav-links li {
+        margin: 15px 0;
+    }
+
+    /* Perbaikan Hero Section */
+    .hero {
+        padding: 100px 20px;
+        /* Tambah jarak atas agar tidak tertutup navbar */
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    /* Perbaikan Galeri agar tidak meluber */
+    .gallery-grid {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    /* Perbaikan Halaman Detail */
     .profile-detail-container {
         flex-direction: column;
         padding: 20px;
+        gap: 20px;
     }
 
     .profile-sidebar {
         max-width: 100%;
+    }
+
+    .profile-sidebar img {
+        max-width: 250px;
+        margin: 0 auto 20px;
+        display: block;
+    }
+
+    .social-links {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .btn-social {
+        flex: 1;
+        max-width: 140px;
+    }
+}
+
+/* 3. DEVICE TEMPLATE: SMARTPHONE KECIL (Lebar layar di bawah 480px) */
+@media (max-width: 480px) {
+    .logo-container span {
+        font-size: 1.1rem;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+
+    /* Grid Alumni di HP pas 2 kolom berdampingan */
+    .alumni-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+
+    .alumni-info h3 {
+        font-size: 1rem;
+    }
+
+    .alumni-info p {
+        font-size: 0.8rem;
     }
 }
