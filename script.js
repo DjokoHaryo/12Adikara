@@ -22,7 +22,7 @@ const dataAlumni = [
         nama: "Abid Aryadi",
         role: "Anggota",
         fotoCard: "images/zoom/abid.jpg",
-        fotoDetail: "images/abid.jpg", // Kosongkan jika belum ada foto, otomatis pakai inisial nama
+        fotoDetail: "images/abid.JPG", // Kosongkan jika belum ada foto, otomatis pakai inisial nama
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -32,7 +32,7 @@ const dataAlumni = [
         nama: "Adam Rizky S.",
         role: "Anggota",
         fotoCard: "images/zoom/adam.jpg",
-        fotoDetail: "images/adam.jpg",
+        fotoDetail: "images/adam.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -42,7 +42,7 @@ const dataAlumni = [
         nama: "Aditya Yasirudin",
         role: "Anggota",
         fotoCard: "images/zoom/cuple.jpg",
-        fotoDetail: "images/cuple.jpg",
+        fotoDetail: "images/cuple.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -52,7 +52,7 @@ const dataAlumni = [
         nama: "Agha Athari",
         role: "Anggota",
         fotoCard: "images/zoom/agha.jpg",
-        fotoDetail: "images/agha.jpg",
+        fotoDetail: "images/agha.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -62,7 +62,7 @@ const dataAlumni = [
         nama: "Aldi Faiz",
         role: "Anggota",
         fotoCard: "images/zoom/aldi.jpg",
-        fotoDetail: "images/aldi.jpg",
+        fotoDetail: "images/aldi.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -72,7 +72,7 @@ const dataAlumni = [
         nama: "Aqila Khairil",
         role: "Anggota",
         fotoCard: "images/zoom/aqila.jpg",
-        fotoDetail: "images/aqila.jpg",
+        fotoDetail: "images/aqila.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -82,7 +82,7 @@ const dataAlumni = [
         nama: "Arya Hakim",
         role: "Anggota",
         fotoCard: "images/zoom/arya.jpg",
-        fotoDetail: "images/arya.jpg",
+        fotoDetail: "images/arya.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -92,7 +92,7 @@ const dataAlumni = [
         nama: "Az Zahra Amani",
         role: "Anggota",
         fotoCard: "images/zoom/zahra.jpg",
-        fotoDetail: "images/zahra.jpg",
+        fotoDetail: "images/zahra.JPG",
         instagram: "https://instagram.com/",
         linkedin: "https://linkedin.com/",
         deskripsi: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -102,7 +102,7 @@ const dataAlumni = [
         nama: "Djoko Haryo Baskoro",
         role: "Informatics Cadet",
         fotoCard: "images/zoom/djoko.jpg",
-        fotoDetail: "images/djoko.jpg",
+        fotoDetail: "images/djoko.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -112,7 +112,7 @@ const dataAlumni = [
         nama: "Elsandy Mirza",
         role: "Anggota",
         fotoCard: "images/zoom/elsandy.jpg",
-        fotoDetail: "images/elsandy.jpg",
+        fotoDetail: "images/elsandy.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -122,7 +122,7 @@ const dataAlumni = [
         nama: "Elvira Istiama",
         role: "Anggota",
         fotoCard: "images/zoom/elvira.jpg",
-        fotoDetail: "images/elvira.jpg",
+        fotoDetail: "images/elvira.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -132,7 +132,7 @@ const dataAlumni = [
         nama: "Fadel Ragil",
         role: "Anggota",
         fotoCard: "images/zoom/fadel.jpg",
-        fotoDetail: "images/fadel.jpg",
+        fotoDetail: "images/fadel.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -142,7 +142,7 @@ const dataAlumni = [
         nama: "Fadghom A.",
         role: "Anggota",
         fotoCard: "images/zoom/fadghom.jpg",
-        fotoDetail: "images/fadghom.jpg",
+        fotoDetail: "images/fadghom.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -152,7 +152,7 @@ const dataAlumni = [
         nama: "Genoveva Holy Merci",
         role: "Anggota",
         fotoCard: "images/zoom/merci.jpg",
-        fotoDetail: "images/merci.jpg",
+        fotoDetail: "images/merci.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -162,7 +162,7 @@ const dataAlumni = [
         nama: "Iqcy Ulima",
         role: "Anggota",
         fotoCard: "images/zoom/iqcy.jpg",
-        fotoDetail: "images/iqcy.jpg",
+        fotoDetail: "images/iqcy.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -172,7 +172,7 @@ const dataAlumni = [
         nama: "Jasson Ifan K.",
         role: "Anggota",
         fotoCard: "images/zoom/jasson.jpg",
-        fotoDetail: "images/jasson.jpg",
+        fotoDetail: "images/jasson.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -182,7 +182,7 @@ const dataAlumni = [
         nama: "Joshua Natan",
         role: "Anggota",
         fotoCard: "images/zoom/joshua.jpg",
-        fotoDetail: "images/joshua.jpg",
+        fotoDetail: "images/joshua.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -192,7 +192,7 @@ const dataAlumni = [
         nama: "M. Abdun Najib",
         role: "Anggota",
         fotoCard: "images/zoom/najib.jpg",
-        fotoDetail: "images/najib.jpg",
+        fotoDetail: "images/najib.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -202,7 +202,7 @@ const dataAlumni = [
         nama: "M. Fachri Yusmar",
         role: "Anggota",
         fotoCard: "images/zoom/fahri.jpg",
-        fotoDetail: "images/fahri.jpg",
+        fotoDetail: "images/fahri.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -212,7 +212,7 @@ const dataAlumni = [
         nama: "M. Fauzan",
         role: "Anggota",
         fotoCard: "images/zoom/fauzan.jpg",
-        fotoDetail: "images/fauzan.jpg",
+        fotoDetail: "images/fauzan.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -222,7 +222,7 @@ const dataAlumni = [
         nama: "M. Hafizh",
         role: "Anggota",
         fotoCard: "images/zoom/apis.jpg",
-        fotoDetail: "images/apis.jpg",
+        fotoDetail: "images/apis.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -232,7 +232,7 @@ const dataAlumni = [
         nama: "M. Raffi A.",
         role: "Anggota",
         fotoCard: "images/zoom/rafi.jpg",
-        fotoDetail: "images/rafi.jpg",
+        fotoDetail: "images/rafi.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -242,7 +242,7 @@ const dataAlumni = [
         nama: "M. Revan Alkamar",
         role: "Anggota",
         fotoCard: "images/zoom/revan.jpg",
-        fotoDetail: "images/revan.jpg",
+        fotoDetail: "images/revan.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -252,7 +252,7 @@ const dataAlumni = [
         nama: "Mareska Surya",
         role: "Anggota",
         fotoCard: "images/zoom/mareskha.jpg",
-        fotoDetail: "images/mareskha.jpg",
+        fotoDetail: "images/mareskha.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -262,7 +262,7 @@ const dataAlumni = [
         nama: "Muh. Adib Al-Fathi",
         role: "Anggota",
         fotoCard: "images/zoom/adib.jpg",
-        fotoDetail: "images/adib.jpg",
+        fotoDetail: "images/adib.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -272,7 +272,7 @@ const dataAlumni = [
         nama: "Muhammad Julfan",
         role: "Anggota",
         fotoCard: "images/zoom/julfan.jpg",
-        fotoDetail: "images/julfan.jpg",
+        fotoDetail: "images/julfan.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -282,7 +282,7 @@ const dataAlumni = [
         nama: "Nino Alfaridzy",
         role: "Anggota",
         fotoCard: "images/zoom/nino.jpg",
-        fotoDetail: "images/nino.jpg",
+        fotoDetail: "images/nino.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -292,7 +292,7 @@ const dataAlumni = [
         nama: "Rizky Putra",
         role: "Anggota",
         fotoCard: "images/zoom/rizky.jpg",
-        fotoDetail: "images/rizky.jpg",
+        fotoDetail: "images/rizky.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -302,7 +302,7 @@ const dataAlumni = [
         nama: "Sheren Putri",
         role: "Anggota",
         fotoCard: "images/zoom/sheren.jpg",
-        fotoDetail: "images/sheren.jpg",
+        fotoDetail: "images/sheren.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -312,7 +312,7 @@ const dataAlumni = [
         nama: "Timothy Grace",
         role: "Anggota",
         fotoCard: "images/zoom/timoti.jpg",
-        fotoDetail: "images/timoti.jpg",
+        fotoDetail: "images/timoti.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
@@ -322,7 +322,7 @@ const dataAlumni = [
         nama: "Yeremi Pandapotan O.",
         role: "Anggota",
         fotoCard: "images/zoom/yeremi.jpg",
-        fotoDetail: "images/yeremi.jpg",
+        fotoDetail: "images/yeremi.JPG",
         instagram: "https://instagram.com/username_djoko", // Ganti dengan link asli
         linkedin: "https://linkedin.com/in/username_djoko",  // Ganti dengan link asli
         deskripsi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Tertarik pada pengembangan perangkat lunak, pemrograman C++/Python, serta sistem teknologi modern. Salam kenal!"
